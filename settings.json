@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": true,
+	"msg_connected": false,
+	"user_register": false,
+	"anti_delete" : true,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumberr": "6288220262557",
+	"ownername": "Fams",
+	"botname":"F BOT",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"captionpay":"Scan untuk melakukan pembayaran",
+	"fake": " © FBOT "
+}
